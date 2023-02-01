@@ -15,3 +15,6 @@ This is a good example of [my code](https://gist.github.com/dfcantor/d94b48cf875
 ### Collab + Jupyter
 
 You can find the notebook for this example here [mycode2](CloudSpec_CCF_W2_technical_docs.ipynb)
+
+### Image
+![image](https://user-images.githubusercontent.com/88911560/216122711-6dfc69a7-93d0-4540-bc0a-09c7e89065c7.png)
