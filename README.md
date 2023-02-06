@@ -1,4 +1,4 @@
-# [cloud_computing fundamentals
+# cloud_computing fundamentals
 This is a demo repo for sharing ideas around the course Cloud_Computing_Fundamentals from Duke University in Coursera.
 
 
